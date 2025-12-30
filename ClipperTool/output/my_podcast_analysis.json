@@ -1,0 +1,134 @@
+[
+  {
+    "clip_filename": "my_podcast_clip_01.mp4",
+    "start_time": 616.94,
+    "end_time": 676.94,
+    "scores": {
+      "narrative_cohesion": {
+        "score": 9,
+        "rationale": "The story of the snowball in the burn unit is a complete and emotionally resonant narrative arc."
+      },
+      "informational_density": {
+        "score": 5,
+        "rationale": "While the story is compelling, it doesn't offer a clear tip, insight, or actionable takeaway."
+      },
+      "emotional_impact": {
+        "score": 10,
+        "rationale": "The story evokes strong emotions of empathy, joy, and wonder, particularly in the description of the snowball's impact."
+      },
+      "novelty_hook_quality": {
+        "score": 9,
+        "rationale": "The unexpected act of a nurse smuggling in a snowball creates a compelling and unusual hook."
+      },
+      "clarity_actionability": {
+        "score": 7,
+        "rationale": "The language is clear, but the lack of a concrete takeaway lowers the score."
+      },
+      "social_currency": {
+        "score": 9,
+        "rationale": "The heartwarming and unusual nature of the story makes it highly shareable."
+      }
+    },
+    "overall_score": 8.3,
+    "title": "Finding Beauty in Unexpected Places"
+  },
+  {
+    "clip_filename": "my_podcast_clip_02.mp4",
+    "start_time": 872.971,
+    "end_time": 932.971,
+    "scores": {
+      "narrative_cohesion": {
+        "score": 8,
+        "rationale": "The segment tells a complete story about the importance of sensory experiences, especially baking cookies, for hospice residents with dementia, creating a cohesive narrative arc."
+      },
+      "informational_density": {
+        "score": 7,
+        "rationale": "It delivers a valuable insight into the importance of sensory stimulation for dementia patients, focusing on the power of simple acts like baking cookies."
+      },
+      "emotional_impact": {
+        "score": 9,
+        "rationale": "The speaker's poignant description of the kitchen in a Zen hospice and the focus on the human connection through simple acts evokes empathy and a sense of emotional depth."
+      },
+      "novelty_hook_quality": {
+        "score": 8,
+        "rationale": "The opening line about the 'most poignant room' immediately grabs attention, creating intrigue and setting the stage for an emotional and thought-provoking story."
+      },
+      "clarity_actionability": {
+        "score": 7,
+        "rationale": "While the message is clear, the actionable takeaway is somewhat implicit \u2013 the importance of sensory experiences for dementia patients, rather than a specific step-by-step guide."
+      },
+      "social_currency": {
+        "score": 8,
+        "rationale": "The story is emotionally resonant and offers a unique perspective on dementia care, making it shareable and likely to spark conversations."
+      }
+    },
+    "overall_score": 8.2,
+    "title": "The Importance of Sensory Gratification"
+  },
+  {
+    "clip_filename": "my_podcast_clip_03.mp4",
+    "start_time": 390.142,
+    "end_time": 450.142,
+    "scores": {
+      "narrative_cohesion": {
+        "score": 9,
+        "rationale": "The story of Frank and his decision to raft the Colorado River is a complete narrative arc, highlighting his approach to facing mortality."
+      },
+      "informational_density": {
+        "score": 6,
+        "rationale": "While it offers insights into how to face mortality and live without regrets, it's not a concise tip or key takeaway."
+      },
+      "emotional_impact": {
+        "score": 8,
+        "rationale": "The story evokes a strong emotional response; it's inspiring and touching while raising questions about mortality and living fully."
+      },
+      "novelty_hook_quality": {
+        "score": 7,
+        "rationale": "Introducing Frank's river rafting decision is a compelling hook; however, the novelty is somewhat lessened by the predictable narrative of facing mortality."
+      },
+      "clarity_actionability": {
+        "score": 7,
+        "rationale": "The message is clear, but lacks a specific actionable step; it's more of a reflection prompt than a how-to guide."
+      },
+      "social_currency": {
+        "score": 9,
+        "rationale": "The story is inspiring and thought-provoking, making it easily shareable to spark conversations about living life to the fullest."
+      }
+    },
+    "overall_score": 7.8,
+    "title": "Frank's Raft Trip: Embracing Life Despite Illness"
+  },
+  {
+    "clip_filename": "my_podcast_clip_04.mp4",
+    "start_time": 506.766,
+    "end_time": 566.766,
+    "scores": {
+      "narrative_cohesion": {
+        "score": 9,
+        "rationale": "The segment presents a complete contrast between two death rituals, creating a cohesive narrative arc."
+      },
+      "informational_density": {
+        "score": 6,
+        "rationale": "While it describes a specific ritual, the broader implications and lessons are implied rather than explicitly stated."
+      },
+      "emotional_impact": {
+        "score": 8,
+        "rationale": "The contrast between the peaceful garden ritual and the clinical hospital setting evokes a strong emotional response."
+      },
+      "novelty_hook_quality": {
+        "score": 7,
+        "rationale": "The description of the Zen Hospice Project's ritual is relatively unique and creates intrigue, although not exceptionally surprising."
+      },
+      "clarity_actionability": {
+        "score": 7,
+        "rationale": "The speaker's description is clear, but there's no direct call to action, impacting actionability."
+      },
+      "social_currency": {
+        "score": 9,
+        "rationale": "The poignant contrast and the unique ritual described make it highly shareable for sparking conversation and reflection."
+      }
+    },
+    "overall_score": 7.8,
+    "title": "The Zen Hospice Project Ritual"
+  }
+]

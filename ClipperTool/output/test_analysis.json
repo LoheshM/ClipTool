@@ -1,0 +1,142 @@
+[
+  {
+    "clip_filename": "test_clip_01_with_subs.mp4",
+    "video_start_time": 287.09,
+    "video_end_time": 347.09,
+    "speech_start_time": 287.59,
+    "speech_end_time": 370.32,
+    "scores": {
+      "narrative_cohesion": {
+        "score": 6,
+        "rationale": "The conversation jumps around a bit, making it slightly hard to follow the central thread without visual context."
+      },
+      "informational_density": {
+        "score": 4,
+        "rationale": "While it reveals a funny travel mishap, it lacks a clear, concise takeaway or valuable insight."
+      },
+      "emotional_impact": {
+        "score": 7,
+        "rationale": "The humor derives from the relatable frustration of a travel booking error, generating mild amusement."
+      },
+      "novelty_hook_quality": {
+        "score": 6,
+        "rationale": "The opening is somewhat bland, but the 'wrong week' booking error provides a moderately surprising element."
+      },
+      "clarity_actionability": {
+        "score": 5,
+        "rationale": "The dialogue is clear, but there's no actionable advice or takeaway for the viewer."
+      },
+      "social_currency": {
+        "score": 7,
+        "rationale": "The relatable travel blunder and the humorous tone could make it shareable amongst those who have experienced similar situations."
+      }
+    },
+    "overall_score": 6.2,
+    "title": "Weekly Activities: Spending and Travel Plans"
+  },
+  {
+    "clip_filename": "test_clip_02_with_subs.mp4",
+    "video_start_time": 408.685,
+    "video_end_time": 453.685,
+    "speech_start_time": 410.685,
+    "speech_end_time": 431.916,
+    "scores": {
+      "narrative_cohesion": {
+        "score": 4,
+        "rationale": "The segment is a fragmented conversation, lacking a clear beginning, middle, and end, making it hard to follow."
+      },
+      "informational_density": {
+        "score": 5,
+        "rationale": "While it mentions Star Wars rumors and an offensive impression, it lacks specific details or context, making the information vague."
+      },
+      "emotional_impact": {
+        "score": 6,
+        "rationale": "The mention of an 'offensive impression' hints at potential outrage, but it's not strongly conveyed due to the lack of context and detail."
+      },
+      "novelty_hook_quality": {
+        "score": 6,
+        "rationale": "The mention of Star Wars rumors has some appeal, but the overall hook is weak and doesn't grab attention effectively."
+      },
+      "clarity_actionability": {
+        "score": 4,
+        "rationale": "The conversation is unclear and disjointed; there is no clear takeaway or call to action."
+      },
+      "social_currency": {
+        "score": 5,
+        "rationale": "The vague mention of Star Wars rumors and an offensive impression offers limited social currency;  more details would improve shareability."
+      }
+    },
+    "overall_score": 5.2,
+    "title": "Amsterdam Trip and Uninvited Guests"
+  },
+  {
+    "clip_filename": "test_clip_03_with_subs.mp4",
+    "video_start_time": 44.104,
+    "video_end_time": 104.104,
+    "speech_start_time": 44.604,
+    "speech_end_time": 178.122,
+    "scores": {
+      "narrative_cohesion": {
+        "score": 4,
+        "rationale": "The segment lacks a clear narrative arc. It jumps between unrelated topics (technical difficulties, listener feedback, personal discomfort) without a unifying thread."
+      },
+      "informational_density": {
+        "score": 3,
+        "rationale": "While it mentions listener feedback and technical issues, it doesn't offer any actionable insights or valuable tips."
+      },
+      "emotional_impact": {
+        "score": 6,
+        "rationale": "The segment evokes some amusement through its self-deprecating humor and awkwardness, but it's not consistently high-arousal."
+      },
+      "novelty_hook_quality": {
+        "score": 5,
+        "rationale": "The initial mention of technical difficulties and listener feedback is mildly intriguing, but it fails to develop into a compelling hook."
+      },
+      "clarity_actionability": {
+        "score": 6,
+        "rationale": "The language is generally clear, but the lack of a central point makes the takeaway unclear and intangible."
+      },
+      "social_currency": {
+        "score": 5,
+        "rationale": "The content is relatable in its awkwardness, but it lacks the insightful or unique element that makes it highly shareable."
+      }
+    },
+    "overall_score": 4.7,
+    "title": "Listener Feedback: Criticism of Alex's Behavior"
+  },
+  {
+    "clip_filename": "test_clip_04_with_subs.mp4",
+    "video_start_time": 177.682,
+    "video_end_time": 237.682,
+    "speech_start_time": 178.182,
+    "speech_end_time": 266.481,
+    "scores": {
+      "narrative_cohesion": {
+        "score": 4,
+        "rationale": "The segment lacks a clear narrative arc.  It's a fragmented conversation with unclear context, making it difficult to follow."
+      },
+      "informational_density": {
+        "score": 3,
+        "rationale": "While it touches on cultural differences in communication styles, the points are underdeveloped and lack a concise takeaway."
+      },
+      "emotional_impact": {
+        "score": 6,
+        "rationale": "The emotional impact is mild. There's some tension and frustration, but it doesn't reach a high-arousal level of humor or surprise."
+      },
+      "novelty_hook_quality": {
+        "score": 5,
+        "rationale": "The opening lacks a compelling hook.  The topic of cultural communication differences is somewhat broad and not immediately intriguing."
+      },
+      "clarity_actionability": {
+        "score": 4,
+        "rationale": "The language is colloquial, making parts unclear. There's no actionable takeaway for the viewer."
+      },
+      "social_currency": {
+        "score": 5,
+        "rationale": "The content might spark some discussion about cultural differences but lacks a strong, memorable insight to make it highly shareable."
+      }
+    },
+    "overall_score": 4.5,
+    "title": "Addressing Listener Concerns about Alex's 'Attacks'"
+  }
+]

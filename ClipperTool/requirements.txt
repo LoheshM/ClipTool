@@ -1,0 +1,28 @@
+# Core
+torch
+torchaudio
+torchvision
+numpy
+pillow
+
+# Audio/Transcription
+git+https://github.com/m-bain/whisperx.git
+pyannote.audio==3.3.2
+
+
+# Video Processing
+ffmpeg-python
+scenedetect[opencv] # Use "scenedetect" if you have OpenCV already
+
+# Visual Analysis
+open-clip-torch
+
+# LLM
+google-generativeai
+
+# Utilities
+python-dotenv
+tqdm
+huggingface_hub[hf_xet]
+opencv-python
+moviepy>=1.0.3

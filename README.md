@@ -57,8 +57,8 @@ An end-to-end pipeline for automatically generating engaging **short-form clips 
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/automated-video-clipper.git
-cd automated-video-clipper
+git clone https://github.com/LoheshM/ClipTool.git
+cd ClipTool
 
 # 2. Create virtual environment
 python -m venv venv
@@ -74,6 +74,7 @@ pip install -r requirements.txt
 
 # 5. Configure API keys
 cp .env.example .env
+```
 
 
 ---
@@ -107,7 +108,7 @@ pyannote/speaker-diarization-3.1
 ## 📁 Project Structure
 
 ```text
-automated-video-clipper/
+ClipTool/
 ├── main.py
 ├── config.py
 ├── requirements.txt
@@ -271,15 +272,3 @@ MIT License — see the `LICENSE` file for details.
 * Performance analytics
 * Fine-tuned specialized models
 * Web UI with Gradio
-
-```
-
----
-
-If you want, I can also:
-- Compress this into a **short GitHub repo summary**
-- Add **badges** (Python version, license, GPU, open-source)
-- Optimize it for **GitHub SEO / discoverability**
-
-Just say the word.
-```
